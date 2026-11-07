@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 向 Android 软件包管理器声明 OpenGL ES Extension Pack（AEP）功能。 -->
+<!-- 此声明不代表底层 GPU 驱动一定实现了对应功能，实际能力仍取决于驱动。 -->
+<permissions>
+    <feature name="android.hardware.opengles.aep" />
+</permissions>

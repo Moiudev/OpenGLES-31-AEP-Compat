@@ -1,0 +1,6 @@
+id=opengles_31_aep_compat
+name=OpenGL ES 3.1 扩展兼容增强
+version=1.0
+versionCode=1
+author=Moiudev
+description=调整 OpenGL ES 版本声明并添加 AEP 功能标识；实际图形能力仍取决于设备底层 GPU 驱动。
